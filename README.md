@@ -167,8 +167,6 @@ This repository serves as my personal coding notebook and reference guide while 
 
 ## 👨‍💻 Author
 
-**Ashish Mahajan**
-
 Data Engineer | Azure | PySpark | Databricks | Microsoft Fabric
 
 ### Connect With Me
